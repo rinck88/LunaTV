@@ -75,7 +75,7 @@
 
 点击下方按钮即可一键部署，自动配置 LunaTV + Kvrocks 数据库：
 
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/8MPTQU/deploy)
+[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com/referral?referralCode=fondhy&utm_source=fondhy)
 
 **优势**：
 - ✅ 无需配置，一键启动（自动部署完整环境）
